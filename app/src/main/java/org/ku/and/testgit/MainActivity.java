@@ -13,5 +13,7 @@ public class MainActivity extends AppCompatActivity {
 
         String text = "Hi";
         String text1 = "Next";
+
+        String text2 = "다음";
     }
 }

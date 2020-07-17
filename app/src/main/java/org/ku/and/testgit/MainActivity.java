@@ -15,5 +15,9 @@ public class MainActivity extends AppCompatActivity {
         String text2 = "내일 12시";
         String text1 = "Next";
         String text3 = "다음";
+
+
+        String text4 = "그 다음";
+
     }
 }
